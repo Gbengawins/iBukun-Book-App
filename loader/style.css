@@ -1,0 +1,40 @@
+.loading {
+    width: 240px;
+    margin: auto;
+    padding: 20px 0 10px;
+    background: #333;
+    color: #ffffff;
+    text-align: center;
+}
+/* animated*/
+
+.loader {
+    width: 240px;
+    margin: auto;
+    padding: 20px 0 10px;
+    background: #333;
+    color: #ffffff ;
+    text-align: center;
+}
+
+
+
+.spin {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 10px solid #ccc;
+    border-right: 10px solid transparent;
+    border-radius: 30px;
+    animation: spin 2s linear 0s infinite normal;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
