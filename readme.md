@@ -1,6 +1,6 @@
 # About
 
-This is a HTML, CSS, JS project. One of the features of the app is its imitation of the Reactjs template format.
+This is a HTML, CSS, JS project. One of the features of the app is its imitation of the Reactjs template Architecture.
 It incorporates a digital mini-clock widget clearly displayed on the workspace.
 
 It uses the LocalStorage for data retention.
