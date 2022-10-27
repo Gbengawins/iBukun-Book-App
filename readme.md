@@ -6,5 +6,5 @@ It incorporates a digital mini-clock widget clearly displayed on the workspace.
 It uses the LocalStorage for data retention.
 
 Suggestions for further development:
-[] - Backend data storage
-[] - Cross plateform build
+   [] - Backend data storage
+   [] - Cross plateform build
